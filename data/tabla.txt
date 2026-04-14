@@ -1,0 +1,5 @@
+# Equipo PJ PG PE PP GF GC DG PTS
+Real 0 0 0 0 0 0 0 0
+Barcelona 0 0 0 0 0 0 0 0
+Sevilla 0 0 0 0 0 0 0 0
+Valencia 0 0 0 0 0 0 0 0

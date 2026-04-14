@@ -1,0 +1,15 @@
+liga= Liga de Valentino
+
+puntos_ganar=3
+
+puntos_empatar=1
+
+puntos_perder=0
+
+equipo=Real
+
+equipo=Barcelona
+
+equipo=Sevilla
+
+equipo=Valencia
